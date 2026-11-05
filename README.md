@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JBMkenya
-- 👀 I’m interested in programming
-- 🌱 I’m have learnt introduction to programming at msoma.org
-- 💞️ I’m looking to collaborate on projects that expose me to programming
+- 👋 Hi, I’m Benjamin Otieno
+- 👀 I’m interested in Tech
+- 💞️ I’m looking to collaborate on projects that expose me to programming or anything Tech
 - 📫 How to reach me otienojaoko@gmail.com
 
 <!---
